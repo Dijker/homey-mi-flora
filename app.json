@@ -1,5 +1,5 @@
 {
-    "id": "com.mi.flora",
+    "id": "com.koktail.homey-mi-flora",
     "sdk": 2,
     "name": {
         "en": "Xiaomi Mi Flora",
